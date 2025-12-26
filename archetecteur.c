@@ -1,7 +1,7 @@
 #include <stdio.h>
-int main(){charA[10];
+int main(){char A[10];
 printf("say mustafa");
-  scanf("%s",A[10]);
+  scanf("%s",A);
 printf("rass tassa");
 return 0;
            
